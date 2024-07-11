@@ -1,0 +1,3 @@
+MONGODB_URI=mongodb+srv://real-estate:real-estate@real-estate.qetw5h7.mongodb.net/?retryWrites=true&w=majority&appName=real-estate
+JWT_SECRET=ryEr5i3BL3G47neudSTQTVoyIGHEsh3CHhIpeJguAepb4IrEo2V7F
+CLIENT_SIDE_URL=http://localhost:5173
